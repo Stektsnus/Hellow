@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hellow", "Hellow.csproj", "{42727456-2021-4BA2-8F42-EEF29C170282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42727456-2021-4BA2-8F42-EEF29C170282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42727456-2021-4BA2-8F42-EEF29C170282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42727456-2021-4BA2-8F42-EEF29C170282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42727456-2021-4BA2-8F42-EEF29C170282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF173808-F121-43EA-93D0-855D77CECD63}
+	EndGlobalSection
+EndGlobal
